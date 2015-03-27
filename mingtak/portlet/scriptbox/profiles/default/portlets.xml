@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<portlets>
+
+ <!-- Portlet type registrations -->
+
+ <portlet
+   addview="mingtak.portlet.scriptbox.ScriptBox"
+   title="ScriptBox"
+   description="Script code for portlet"
+   />
+
+</portlets>

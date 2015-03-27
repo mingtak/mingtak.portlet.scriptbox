@@ -1,0 +1,12 @@
+<dl class="portlet portletScriptBox"
+    i18n:domain="mingtak.portlet.scriptbox">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft" tal:content="view/scriptTitle">Header</span>
+    </dt>
+
+    <dd class="portletItem odd" tal:content="structure view/body">
+        Body text
+    </dd>
+
+</dl>
